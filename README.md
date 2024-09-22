@@ -1,3 +1,5 @@
+This is a Discord Read Receipt tool, designed to help users track who has read their messages in Discord servers and DMs
+
 ## Setting up
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flulu5239%2Fview-loggers)
 1. Make an account on [Vercel](https://vercel.com/);
